@@ -4,5 +4,7 @@ public class HelloWorld {
         System.out.println("你好吗？");
         System.out.println("我爱你");
         System.out.println("我爱你");
+        System.out.println("这个是个人才");
+
     }
 }
